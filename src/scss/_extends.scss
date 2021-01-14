@@ -1,0 +1,122 @@
+//paintbox coding
+/*
+%miniTitle{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+%button{
+    padding: 20px 70px;
+      border: 1px solid black;
+      transition: all 0.2s linear;
+      &:hover{
+        color: white;
+        background-color: #414141;
+      }
+}
+*/
+//paintbox coding
+
+//rodic coding
+/*
+%fontHover{
+  &:hover{
+    color: $fontHoverColor;
+  }
+}
+*/
+//rodic coding
+
+//Schwartz coding
+/*
+%headerTitle{
+  font-size: 50px;
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: -1px;
+}
+
+%mainTitle{
+    font-size: 27px;
+    font-weight: 400;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+}
+
+%button{
+    text-decoration: none;
+        border: $border;
+        color: inherit;
+        font-size: 17px;
+        padding: 7px 34px ;
+        border-radius: 99px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition: all 0.3s linear;
+        &:hover{
+            background-color: black;
+            color: white;
+        }
+}
+*/
+//Schwartz coding
+
+//playStation coding
+/*
+%button{
+  padding: 10px 22px;
+  background-color: #363636;
+  border-radius: 60px;
+  color:white;
+  font-size: 16px;
+  font-weight: 600;
+  transition: all 0.3s linear;
+  &:hover{
+    background-color: skyblue;
+    opacity: 0.8;
+    color: black;
+  }
+}
+
+%contents{
+  position:absolute;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-start;
+  cursor: pointer;
+  h1{
+    font-size: 40px;
+  }
+  p{
+    width: 89%;
+    line-height: 30px;
+  }
+  span{
+    @extend %button;
+    background-color: #111820;
+    color: #00B0FF;
+  }
+}
+*/
+//playStation coding
+
+//donica coding
+/*
+%grid{
+  display: grid;
+  grid-template-columns: 1fr 4fr 5fr;
+}
+
+%tinyText{
+    color: $red;
+    font-size:15px;
+    font-weight: 600;
+}
+*/
+//donica coding
+
